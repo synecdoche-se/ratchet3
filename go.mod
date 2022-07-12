@@ -1,4 +1,4 @@
-module github.com/cromon/ratchet2
+module github.com/synecdoche-se/ratchet3
 
 go 1.16
 
